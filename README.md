@@ -12,3 +12,7 @@ Steps to use Blockchain:
   npm install
   npm start
     to solve dependencies and run the app
+
+Steps to use android app:
+1) Compile and install app in Android studio.
+#Must have Google-play-services plug-in installed
